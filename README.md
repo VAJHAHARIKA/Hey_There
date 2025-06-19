@@ -1,3 +1,3 @@
 ## master
-Simple yet powerful voice-controlled desktop assistant built using Python. It listens to user commands and performs basic system operations and web-based tasks.
+ A social networking  desktop assistant built using Python made using DART(FLUTTER). It listens to user commands and performs basic system operations and web-based tasks.
 
